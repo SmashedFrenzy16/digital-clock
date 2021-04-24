@@ -1,1 +1,1 @@
-# graphical-clock
+# Graphical Clock
